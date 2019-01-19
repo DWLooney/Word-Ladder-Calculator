@@ -1,5 +1,5 @@
 /** 
- * TCSS 143 Programming Project 4
+ * Creates a map linking words to their lengths.
  * Spring 2018
  * Daniel Looney
  */
