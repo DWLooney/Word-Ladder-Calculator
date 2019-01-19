@@ -1,5 +1,5 @@
 /** 
- * TCSS 143 Programming Project 4
+ * Word Ladder Parser
  * Spring 2018
  * Daniel Looney
  */
