@@ -75,7 +75,6 @@ public class Distance1Map {
 			this.word = newWord;
 			this.level = newLevel;
 			
-			//Code below is for the extra credit
 			traversedLadder = new ArrayList<String>();
 			//Create a deep copy of the list of words from the previous nodes
 			for (String str : prevLadder) {
